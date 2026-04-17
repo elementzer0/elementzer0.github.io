@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Reenie Designs</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 60px auto; padding: 0 20px; color: #333; }
+        h1, h2 { color: #c47a8a; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p><em>Last updated: April 2026</em></p>
+
+    <h2>Overview</h2>
+    <p>Pregnancy Journal is a Google Sheets template created for personal pregnancy tracking. This Privacy Policy explains how the template's built-in script handles your data.</p>
+
+    <h2>What data is accessed</h2>
+    <p>The script accesses only the Google Sheets spreadsheet in which it operates. It does not access any other files, folders, or Google account data.</p>
+
+    <h2>What data is collected</h2>
+    <p>No data is collected, stored, transmitted, or shared with any third party. All information
